@@ -1,0 +1,15 @@
+C:\Users\Administrator\OneDrive - Baku State University\Desktop\MethodMinimum\MethodMinimum\bin\Debug\net6.0\MethodMinimum.exe
+C:\Users\Administrator\OneDrive - Baku State University\Desktop\MethodMinimum\MethodMinimum\bin\Debug\net6.0\MethodMinimum.deps.json
+C:\Users\Administrator\OneDrive - Baku State University\Desktop\MethodMinimum\MethodMinimum\bin\Debug\net6.0\MethodMinimum.runtimeconfig.json
+C:\Users\Administrator\OneDrive - Baku State University\Desktop\MethodMinimum\MethodMinimum\bin\Debug\net6.0\MethodMinimum.dll
+C:\Users\Administrator\OneDrive - Baku State University\Desktop\MethodMinimum\MethodMinimum\bin\Debug\net6.0\MethodMinimum.pdb
+C:\Users\Administrator\OneDrive - Baku State University\Desktop\MethodMinimum\MethodMinimum\obj\Debug\net6.0\MethodMinimum.csproj.AssemblyReference.cache
+C:\Users\Administrator\OneDrive - Baku State University\Desktop\MethodMinimum\MethodMinimum\obj\Debug\net6.0\MethodMinimum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive - Baku State University\Desktop\MethodMinimum\MethodMinimum\obj\Debug\net6.0\MethodMinimum.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive - Baku State University\Desktop\MethodMinimum\MethodMinimum\obj\Debug\net6.0\MethodMinimum.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive - Baku State University\Desktop\MethodMinimum\MethodMinimum\obj\Debug\net6.0\MethodMinimum.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive - Baku State University\Desktop\MethodMinimum\MethodMinimum\obj\Debug\net6.0\MethodMinimum.dll
+C:\Users\Administrator\OneDrive - Baku State University\Desktop\MethodMinimum\MethodMinimum\obj\Debug\net6.0\refint\MethodMinimum.dll
+C:\Users\Administrator\OneDrive - Baku State University\Desktop\MethodMinimum\MethodMinimum\obj\Debug\net6.0\MethodMinimum.pdb
+C:\Users\Administrator\OneDrive - Baku State University\Desktop\MethodMinimum\MethodMinimum\obj\Debug\net6.0\MethodMinimum.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive - Baku State University\Desktop\MethodMinimum\MethodMinimum\obj\Debug\net6.0\ref\MethodMinimum.dll
